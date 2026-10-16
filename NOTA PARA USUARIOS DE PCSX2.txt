@@ -1,0 +1,11 @@
+Si deseas ejecutar correctamente la ISO, 
+recomendamos usar la carpeta EXTRAS disponible en la web oficial del team:
+
+https://teambt4.wixsite.com/dbzbt4ps2oficial/descarga
+
+debes copiar el contenido de esta en la ruta de instalación de tu emulador pcsx2, 
+y reemplazando archivos. Esto solucionará errores gráficos en los personajes.
+
+Nota 2: Desactiva los parches de pantalla panorámica (widescreen) 
+al ejecutar la ISO, esta ya lo incluye de forma nativa y activarlo 
+puede generar errores.

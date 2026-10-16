@@ -1,0 +1,2206 @@
+*Beta 14 Rev 2 (v0.14.2) 29/06/26
+- Bug Fixes:
+	- [Menu] Restaurada selección de mapas faltantes.
+        - [ Gameplay ] Balance daño y costo general de técnicas.
+        - [ Gameplay ] Traje Trunks misión paralela Guerreros Galácticos.
+        - [ Gameplay ] Destrucción de mapa campo abierto.
+        - [ Sonido ] Voces de gritos King Piccolo Latino.
+        - [ Visual ] Cara de Goku Medio Super Saiyajin en técnica definitiva.
+        - [ Sonido ] Audio Goku SSJ4 VS Goten SSJ.
+
+*Beta 14 Rev 1 (v0.14.1) 28/06/26
+- Bug Fixes:
+	- [ Exploit ] Button Clash pasa a ser con cuadrado y no se puede mantener presionado para ganar ventaja.
+	- [Menu] Corrección de textos historia dragón.
+        - [Visual] Potara Goku Fin Traje 5.
+        - [Visual] Sombra Cabello Goku Black SSJ Rosé Trajes 1 y 2.
+        - [Visual] Halo Golden Freezer.
+        - [Visual] Cara traje dañado Golden Freezer.
+        - [Visual] Lip Sync Goku SSJ Falso Latino.
+        - [Visual] Modo historia El Plan Cero Mortales: Ajustes cámaras Zamas y animación final.
+	- [Crash] Broly SSJ3.
+	- [Crash] Saibaiman.
+	- [BGM] Misión Paralela - El Monstruo Sellado Hildegarn.
+        - [Visual] Textos Modo Historia La Aldea Pinguino.
+        - [ Gameplay ] Balance daño y costo general de nuevas técnicas.
+        - [ Gameplay ] Técnicas imbloqueables: Jiren, Cabba SSJ, Trunks (Super), Trunks SSJ Rage, Goku Fin SSJ2, Broly SSJ3.
+        - [ Gameplay ] Goku Inicio: CPU ahora se transforma.
+
+- Modo historia:
+        - Extensión Capítulo Un Final Milagroso Saga GT.
+        - Enemigo Común: Nuevos audios latinos remasterizados (Team SZ Latino).
+        - Batalla Final Decisiva: Nuevos audios latinos remasterizados (Team SZ Latino).
+
+- Habilidades
+	- Gogeta Super Saiyajin Blue.
+        - Goku Med Super Saiyajin.
+
+- Mapas jugables en Versus
+        - Campo Abierto
+        - Ciudad Norte (Ruinas)
+        - Base Patrulla Roja
+        - Base Patrulla Roja (Tormenta)
+        - Base Patrulla Roja (Ruinas)
+        - Namek (Destruido)
+
+- Ajuste general
+        - [ Gameplay ] Hatchiyack armadura.
+        - [Visual] Hiro Halo
+
+*Beta 14 (v0.14) 16/5/25
+- Menus:
+	- Historia Dragón:
+	- Nuevo capítulo de Super Hero
+		- Renovación Gráfica.
+		- Añadidos finales alternativos en varios capítulos que no los tenían.
+	- Misión Paralela:
+		- 18 Misiónes especiales han sido añadidas.
+- Personajes Nuevos:
+	- Appule
+	- Soldado de Freezer
+	- Cell - Forma Perfecta.
+	- Trunks (GT)
+	- Trunks (GT) - Super Saiyajin
+	- Trunks (DBS)
+	- Trunks (DBS) - Super Saiyajin
+	- Frost
+	- Dyspo
+- Personajes Existentes:
+	- Goku (Fin) - Super Saiyajin 2:
+		- Técnica 2.
+		- Técnica Definitiva.
+	- Gohan Definitivo:
+		- Animación de Transformación.
+	- Gohan Beast:
+		- Técnica Definitiva.
+	- Vegeta Super Saiyajin Blue:
+		- Técnica 1.
+		- Técnica 2.
+	- Vegeta Super Saiyajin Evolution:
+		- Técnica Definitiva.
+	- Trunks (DBS) - Super Saiyajin 2:
+		- Técnica 2.
+		- Técnica Definitiva.
+	- Trunks (DBS) - Super Saiyajin Rage:
+		- Técnica 2.
+		- Técnica Definitiva.
+	- Gogeta (GT) - Super Saiyajin 4:
+		- Técnica Definitiva.
+	- Bardock - Super Saiyajin:
+		- Técnica 2.
+	- Cell - Súper Perfecto.
+		- Moveset Completo.
+	- Androide 14:
+		- Técnica Definitiva.
+	- Broly - Super Saiyajin 3:
+		- Técnica Definitiva.
+	- Bills:
+		- Técnica 2.
+		- Técnica Definitiva.
+	- Cabba - Super Saiyajin:
+		- Técnica 2.
+	- Caulifla:
+		- Animación de Transformación.
+	- Black Goku:
+		- Técnica 1.
+		- Técnica Definitiva.
+	- Black Goku Super Saiyajin Rose:
+		- Técnica 1.
+		- Técnica 2.
+		- Técnica Definitiva.
+	- Zamas - Fusión.
+		- Técnica 1.
+		- Técnica 2.
+		- Técnica Definitiva.
+	- Jiren:
+		- Moveset Completo.
+	- Toppo:
+		- Moveset Completo.
+	- Toppo - Hakaishin:
+		- Técnica 2.
+		- Técnica Definitiva.
+	- Gamma 2:
+		- Técnica 2.
+- Animaciones de Combos:
+	- Goku Med.
+	- Goku Fin.
+	- Goku Fin Super Saiyajin.
+	- Goku Fin Super Saiyajin 3.
+	- Goku Fin Super Saiyajin.
+	- Goku Fin Ultra Instinto Señal.
+	- Goku Fin Ultra Instinto Completo.
+	- Goku GT Super Saiyajin 3.
+	- Gohan Super Saiyajin 2.
+	- Gohan Bestia.
+	- Gohan del futuro.
+	- Super Vegeta.
+	- Vegeta Super Saiyajin 2.
+	- Vegeta Super Saiyajin God.
+	- Vegeta Super Saiyajin Blue.
+	- Vegeta Super Saiyajin Blue Evolution.
+	- Vegeta GT.
+	- Goten GT.
+	- Vegetto Super Saiyajin.
+	- Vegetto Super Saiyajin Blue.
+	- Gogeta.
+	- Gogeta Super Saiyajin Blue.
+	- Bardock Super Saiyajin.
+	- Freezer Golden.
+	- Mecha Freezer.
+	- Buu (Gohan Absorbido).
+	- Super 17.
+	- Gamma 1.
+	- Gamma 2.
+	- Bills.
+	- Hit.
+	- Cabba.
+	- Caulifla.
+	- Kale.
+	- Kefla.
+	- Goku Black.
+	- Zamasu.
+	- Toppo.
+	- Jiren.
+
+- Trajes:
+	- [Traje 4] Androide 17.
+	- [Traje 4] Androide 18.
+	- [Traje 1] Hatchyack.
+	- [Traje 2] Hatchyack.
+	- [Traje 3] Hatchyack.
+	- [Traje 4] Hatchyack.
+	- [Traje 1] Vegeta Super Saiyajin 3.
+	- [Traje 2] Vegeta Super Saiyajin 3.
+	- [Traje 1] Broly Super Saiyajin 3.
+	- [Traje 2] Broly Super Saiyajin 3.
+	- [Traje 3] Broly Super Saiyajin 3.
+	- [Traje 1] Freezer Golden.
+	- [Traje 2] Freezer Golden.
+	- [Traje 3] Freezer Golden.
+	- [Traje 1] Caulifla.
+	- [Traje 2] Caulifla.
+	- [Traje 1] Caulifla Super Saiyajin.
+	- [Traje 2] Caulifla Super Saiyajin.
+	- [Traje 1] Caulifla Super Saiyajin 2.
+	- [Traje 2] Caulifla Super Saiyajin 2.
+	- [Traje 1] Kale.
+	- [Traje 2] Kale.
+	- [Traje 1] Kale Super Saiyajin.
+	- [Traje 2] Kale Super Saiyajin.
+	- [Traje 1] Kale Super Saiyajin Berserker.
+	- [Traje 2] Kale Super Saiyajin Berserker..
+	- [Traje 1] Kefla.
+	- [Traje 2] Kefla.
+	- [Traje 1] Kefla Super Saiyajin.
+	- [Traje 2] Kefla Super Saiyajin.
+	- [Traje 1] Hit.
+	- [Traje 2] Hit.
+	- [Traje 1] Jiren.
+	- [Traje 2] Jiren.
+	- [Traje 3] Jiren.
+	- [Traje 1] Toppo Hakaishin.
+	- [Traje 2] Toppo Hakaishin.
+	- [Traje 1] Vegeta (GT) [Dañado].
+	- [Traje 3] Mr. Satan.
+	- [Traje 3] Freezer.
+	- [Traje 5] Goku (Inicio).
+	- [Traje 6] Goku (Inicio).
+	- [Traje 1] Zangya.
+	- [Traje 2] Zangya.
+- Objeto Especial:
+	- [Traje 1] Trunks (Niño).
+- Artes Conceptuales:
+	- Goku (Fin) - Super Saiyajin 2
+	- Goku (GT) - Super Saiyajin 4
+	- Vegeta - Super Saiyajin 2
+	- Vegeta - Super Saiyajin God
+	- Vegeta - Super Saiyajin Blue
+	- Vegeta (GT) - Super Saiyajin 4
+	- Trunks (DBS) - Super Saiyajin 2
+	- Trunks (DBS) - Super Saiyajin Rage
+	- Gotenks - Super Saiyajin 3
+	- Gran Saiyaman 2
+	- Paikuhan
+	- Uub
+	- Majuub
+	- Maestro Roshi
+	- Octavio
+	- Saibaman
+	- Dodoria
+	- Mecha Freezer
+	- Super Garlick Jr.
+	- Salza
+	- Kefla
+	- Dragon de 1 Estrella
+	- Ohir saw renev enog.
+- Bug Fixes:
+	- [ Exploit ] Absorciones de Ki a personajes fatigados.
+	- [ Visual ] Gohan Adulto reparaba su traje al transformarse.
+	- [ Visual ] Gohan Adulto cambiaba su peinado al dañarse en su Traje 7.
+	- [ Visual ] Problema en cara de Gogeta SSJB en su 2do Rush.
+	- [ Gameplay ] Tecnicas Instantaneas.
+	- [ Gameplay ] Tracking de Trap Shooter.
+	- [ Gameplay ] Tracking de Danza de Energia (Fasha).
+	- [ Gameplay ] Parametros de Habilidad 2 de Goku Medio.
+	- [ Gameplay ] Daños de Tecnicas ajustados.
+	- [ Gameplay ] Costes de Habilidades ajustados.
+	- [ Gameplay ] Duraciones de Estados Fatigados ajustados.
+	- [ Gameplay ] Duracion de congelamiento de Eis Shenron.
+
+*Beta 13 Rev 5 (v0.13.5) 15/05/25
+- Modo Historia
+	- Nuevo capítulo de Bills reemplazando los anteriores 2.
+	- Capítulo de Broly movido a la Saga Super.
+	- Historia de Bardock restaurada en la Saga Especial.
+- Artes Conceptuales
+	- Vegeta
+	- Vegeta Super Saiyajin Blue
+	- Vegetto
+	- Vegetto Super Saiyajin
+	- Freezer 100% Poder
+	- Gohan Super Saiyajin 2
+	- Gogeta Super Saiyajin 4
+	- Nail
+	- Nail Gigante
+	- Taopaipai Cyborg
+	- Tapion
+- Habilidades
+	- Goku Fin.
+	- Broly Super Saiyajin 3.
+	- Androide 14.
+	- Cabba.
+	- Cabba Super Saiyajin.
+	- Kale Super Saiyajin Berserker.
+- Animaciones
+	- Toppo
+	- Androide 14
+	- Gohan Bestia
+	- Broly Super Saiyajin 3
+- Skins
+	- Ginyu 						[Traje 2]
+	- Trunks (Niño) 				[Traje 2]
+	- Trunks (Niño) Super Saiyajin 	[Traje 2]
+	- Goku (Fin) Super Saiyajin 3 	[Traje 1]
+	- Goku (Fin) Super Saiyajin 3 	[Traje 2]
+	- Goku (Fin) Super Saiyajin 3 	[Traje 3]
+	- Goku (Fin) Super Saiyajin 3 	[Traje 4]
+	- Goku (Fin) Super Saiyajin 3 	[Traje 5]
+	- Goku (GT) Super Saiyajin 4 	[Traje 1]
+	- Goku (GT) Super Saiyajin 4 	[Traje 2]
+	- Goku (GT) Super Saiyajin 4 	[Traje 3]
+	- Goku (GT) Super Saiyajin 4 	[Traje 4]
+	- Gogeta Super Saiyajin 4 		[Traje 1]
+	- Gogeta Super Saiyajin 4 		[Traje 3]
+	- Gohan 						[Traje 1]
+	- Gohan 						[Traje 2]
+	- Gohan 						[Traje 3]
+	- Gohan 						[Traje 5]
+	- Gohan 						[Traje 7]
+	- Toppo 						[Traje 1]
+	- Toppo 						[Traje 2]
+	- Androide 14 					[Traje 1]
+	- Androide 14 					[Traje 2]
+	- Vegetto 						[Traje 1 Dañado]
+	- Vegetto Super Saiyajin 		[Traje 1 Dañado]
+	- Vegetto Super Saiyajin Blue 	[Traje 1 Dañado]
+	- Celipa 						[Traje 2]
+- Bug Fixes:
+	- [Gameplay] Ya no es posible convertirse en mono gigante en el torneo del poder.
+	- [Crash] Dañado Héroe Saiyan (Traje 2).
+	- [Sonido] Efecto de Sonido de Kamehameha Furioso.
+	- [Visual] Animacion de Fusion de Goku y Vegeta Super Saiyajin 4.
+	- [Visual] Animacion de transformación a Ozaru de Bardock Traje 2 (Dañado).
+	- [Visual] Cara de Goku Super Saiyajin 2 al ejecutar tecnica definitiva.
+	- [Visual] Altura de animacion de Habilidad 2 de Kale Super Saiyajin Devastador.
+	- [Visual] Miniaturas de Personajes en Modo Evolucion Z.
+	- [Visual] Gohan Definitivo (Traje 5).
+	- [Visual] Dañado Gohan Bestia (Traje 5).
+	- [Visual] Dañado Tenshinhan (Traje 1).
+	- [Visual] Bu Gotenks (Traje 2).
+	- [Visual] Dañado Nail (Traje 2).
+	- [Visual] Bardock SSJ (Traje 4).
+	- [Visual] Zamas (Traje 1 y 2).
+	- [Visual] Dañado Vegeta (2a forma) (Traje 2).
+	- [Visual] Pelo unificado en Vegeta GOD.
+	- [Colisión] Árbol en mapa Yermos.
+	- [Evo Z] Gohan Joven con espacios correctos.
+
+*Beta 13 Rev 4.2 (v0.13.4.2) 05/10/24
+- Nuevo Opening
+- Nuevo Ending
+- Ajuste para futuro soporte de Logros en Retroachievements.
+- Bug Fixes
+	- [Crash] Slug Traje 1.
+
+*Beta 13 Rev 4.1 (v0.13.4.1) 21/09/24
+- Gameplay
+	- Timing para evadir Blast 2 Energéticas ajustado (Frame Perfect).
+	- Ganancia de Blast Stock (Ráfaga) al evadir una Blast 2 Energética.
+	- Al efectuarse una Blast 2, el oponente recupera el control mucho antes (mayores opciones de evasion o bloqueo de Técnicas Blast 2).
+- Habilidades
+	- Miira
+	- Towa
+	- Demigra
+	- Demigra (Forma Final)
+- Skins
+	- Goku (Inicio) [Traje 1]
+	- Goku (Inicio) [Traje 2]
+- Bug Fixes:
+	- [Crash] Gohan Niño (Versión Internacionál).
+	- [Visual] Semidañado Gohan Joven (Traje 1).
+	- [Visual] Semidañado Vegeta Blue (Traje 4).
+	- [Visual] Semidañado Ub (Traje 2).
+	- [Visual] Objeto Especial de Krilin (Traje 1 Dañado).
+	- [Visual] Semidañado de Goku SSJB (Traje 1 Dañado)
+	- [Visual] Textura Erronea Piccoro (Colores Manga).
+	- [Visual] Logo de Goku (Fin) Go (Traje 4)
+	- [Visual] Objeto Especial de Goku Inicio (Trajes 1 y 2)
+	- [Gameplay] Ajustes de Balance.
+
+*Beta 13 Rev 4(v0.13.4) 06/09/24
+- Bug Fixes
+	- [Bloqueo] Agarre de Zamas Fusion, Gamma 1 y Gamma 2.
+	- [Animacion] Halo Torcido en Tecnica 2 de Zamas Fusion.
+
+*Beta 13 Rev 3(v0.13.3) 02/09/24
+- Rework de Colores General en todos los personajes.
+- Personajes
+	- Goku Ultra Instinto - Señal
+- Habilidades
+	- Vegetto
+	- Goku Ultra Instinto
+- Skins
+	- Gamma 1
+	- Gamma 2
+	- Zamasu (Fusión)
+	- Yamcha (Path to Power)
+	- Vegeta (DBS Broly)
+- Nuevos Artes Conceptuales
+	- Majin Buu
+	- Buu Puro
+	- Gamma 2
+	- Janemba
+	- Super Janemba
+	- Gotenks Super Saiyajin
+	- Freezer Forma Final
+- Nuevos Bugs
+	- [Bloqueo] Agarre de Zamas Fusion, Gamma 1 y Gamma 2.
+	- [Animacion] Halo Torcido en Tecnica 2 de Zamas Fusion.
+
+*Beta 13 Rev 2(v0.13.2) 14/01/24
+- Modo Historia
+	- Escenario en Episodio 2 de Saga Saiyan.
+	- Voces Broadcast (Audio Latino) en capitulo final de Saga Freezer.
+- Pantalla de creditos iniciales.
+- Datos Guardados propios.
+- Visor de Objetos Especiales en Sabiduria Dragón.
+	- Mantener L1 para ver Objeto Especial al seleccionar un traje.
+- Sistema de Cheat Codes.
+	- Penta Penguin
+- Kaioken VFX.
+- Skins
+	- Metal Cooler							[Traje 3]
+- Habilidades
+	- Gohan Bestia.
+- Bug Fixes
+	- [Bloqueo] Cell Max con Voces en Japones.
+	- [Bloqueo] Goku Med Traje 5 Semidañado (Al ejecutar Tecnicas).
+	- [Bloqueo] Vegeta Traje 1 al pasar secuencialmente por sus transformaciones.
+	- [Gameplay] Transicion Blanca al utilizar el objeto Ropas Resistentes.
+	- [Gameplay] Traje de Compañero de Ataque Definitivo de Goten Niño Super Saiyajin.
+	- [Gameplay] Algunos personajes ahora pueden mover a Gigantes.
+	- [Gameplay] Algunos personajes ya no pueden mover a Gigantes.
+	- [Gameplay] Vegeta Super Saiyajin God (Lanzamiento).
+	- [Gameplay] Vegeta Super Saiyajin Blue (Lanzamiento).
+	- [Gameplay] Makankosappo de varios personajes. 
+	- [Gameplay] Coste de Transformación de Kaioshin. 
+	- [Gameplay] Coste de Acometidas de ciertos personajes. 
+	- [Gameplay] Combos de personajes que no utilizan Ki. 
+	- [Gameplay] Animacion de Burla de Goku Black Super Saiyajin Rosé. 
+	- [Visual] Goten GT Traje 3.
+	- [Visual] Gohan Super Saiyajin 2 Traje 7 Semi-Dañado.
+	- [Visual] Nombres de Personajes en modo Torneo.
+	- [Visual] Misiones de Nido del Tiempo con trajes equivocados.
+	- [Visual] Cooler Traje 1.
+	- [Visual] Cooler Traje 3.
+	- [Visual] Aura de Carga de Trunks Super Saiyajin 2.
+	- [Visual] Camara de Transformación de Gohan Super Saiyajin 2.
+	- [Visual] Camara de Kale Super Saiyajin Berserk.
+	- [Visual] Animacion de Destransformación de Piccoro Orange.
+	- [Visual] Halo en Cinematicas de Técnicas.
+	- [Visual] Efecto de Tecnica Definitiva de Goku Super Saiyajin 2.
+	- [Visual] Sincronizacion de Labios en episodios de Saga Buu 
+	- [Visual] Sincronizacion de Labios en Técnica 2 de Pan.
+	- [Sonido] Frases Especiales de Trunks. 
+	- [Sonido] Audio Incorrecto de Uub Niño al Cambiar. 
+
+*Beta 13 Rev (v0.13.1) 16/12/23
+- Reajustes
+	- Input Frame de Contra-Z
+	- Buff de Defensa de Contra-Z
+	- Goku UI
+	- Shin Shenron
+	- Babidi
+	- Toppo Hakaishin
+	- Gogeta (GT) Super Saiyajin 4
+	- Broly Super Saiyajin 3
+- Bug Fixes:
+	- [Bloqueo] Modo Batalla por Equipos
+	- [Bloqueo] Voces Japonesas de diversos personajes.
+	- [Bloqueo] Voces Inglesas de diversos personajes (Solo versión Internacional).
+	- [Bloqueo] Super Bojack técnica 2.
+	- [Bloqueo] Trunks Super Saiyajin Rage Ataque Definitivo sin Vegeta como compañero.
+	- [Bloqueo] Kale Traje 2.
+	- [Bloqueo] Goku Fin Traje 5 Genkidama.
+	- [Exploit] Burla contra oponente fatigado o cargando Ki al Máximo.
+	- [Gameplay] Toppo no conecta lanzamiento con oponente cercano.
+	- [Gameplay] Gamma 1 y 2 Ráfagas de Ki.
+	- [Gameplay] Gamma 1 Habilidad 2.
+	- [Gameplay] Tarble Lanzamiento de Oponente.
+	- [Gameplay] Rey Demonio Piccoro transformación.
+	- [Gameplay] Goku UI técnica 2.
+	- [Gameplay] Vegeta SSJ3 técnica 2.
+	- [Gameplay] Piccoro Orange Gigante Habilidad 2.
+	- [Gameplay] Vegeta Combos de Ráfaga.
+	- [Gameplay] Cell Max Técnica 2.
+	- [Gameplay] Goku Super Saiyajin God Tecnica 3.
+	- [Gameplay] Maestro Roshi Traje 4 Efecto de Taiyoken.
+	- [Visual] Traje Incorrecto de Goku en Episodio 1 de Saga Androide.
+	- [Visual] Goku Medio Traje 8 no poseia sus gafas de sol como Objeto Especial.
+	- [Visual] Imagen de Piccoro Inicio en ciertos modos de juego.
+	- [Visual] Expresiones Faciales de diversos personajes.
+	- [Visual] Goku Medio SSJ Traje 6 Dañado - Semi-Dmg.
+	- [Visual] Goku Fin SSJ Dios Traje 6.
+	- [Visual] Goku Fin SSJ Blue Traje 6.
+	- [Visual] Traje de Androide 18 en Danza Sádica (Trajes 3 y 4 de A17).
+	- [Sonido] Krillin frase al ganar.
+	- [Sonido] Vegeta Super Saiyajin God transformación.
+	- [Sonido] Majuub Rayo de Chocolate.
+	- [Sonido] Frase de Inicio de Broly (Z y DBS).
+	- [Sonido] Goku frase incorrecta contra Trunks.
+	- [Sonido] Gran Saiyaman 2 sin Audios.
+
+*Beta 13 (v0.13) 11/12/23
+- General
+	- Set de Esferas del Dragón como Premio de Ganador del Torneo del Poder.
+	- Menu Inicio mejorado con Imagenes HD.
+	- Selector de Menu con nuevos personajes aleatorios.
+	- 8 Trajes por personaje (con 8 respectivos trajes dañados por cada uno).
+	- Selección de Traje con descripción.
+- Personajes
+	- Androide 14
+	- Androide 15
+	- Doore
+	- Neiz
+	- Vegeta - Súper Saiyajin 3
+	- Broly - Súper Saiyajin 3
+	- Gamma 1
+	- Gamma 2
+	- Cell Max
+	- Piccoro (Inicio) - Gigante
+	- Piccoro (Fin) - Orange
+	- Piccoro (Fin) - Orange Gigante
+	- Nail - Gigante
+	- Rey Demonio Piccoro - Gigante
+	- Tarble
+	- Tarble - Ozaru
+	- Vegeta (GT)
+	- Vegeta (GT) - Súper Saiyajin
+	- Vegeta (GT) - Súper Saiyajin 2
+- Skins
+	- Androide 19						[Traje 1 D]
+	- Androide 19						[Traje 2]
+	- Androide 20						[Traje 1 D]
+	- Androide 20						[Traje 2]
+	- Black Goku						[Traje 1 D]
+	- Black Goku						[Traje 2 D]
+	- Black Goku						[Traje 4]
+	- Black Goku Súper Saiyajin Rosé 	[Traje 1 D]
+	- Black Goku Súper Saiyajin Rosé 	[Traje 2 D]
+	- Black Goku Súper Saiyajin Rosé 	[Traje 4]
+	- Cabba 							[Traje 1]
+	- Cabba 							[Traje 2]
+	- Cabba 							[Traje 3]
+	- Cabba Super Saiyajin 				[Traje 1]
+	- Cabba Super Saiyajin				[Traje 2]
+	- Cabba Super Saiyajin				[Traje 3]
+	- Ginyu 							[Traje 2]
+	- Gohan								[Traje 5]
+	- Gohan								[Traje 5 D]
+	- Gohan								[Traje 6]
+	- Gohan								[Traje 7]
+	- Gohan	Súper Saiyajin				[Traje 5]
+	- Gohan	Súper Saiyajin				[Traje 5 D]
+	- Gohan	Súper Saiyajin				[Traje 6]
+	- Gohan	Súper Saiyajin				[Traje 7]
+	- Gohan	Súper Saiyajin 2			[Traje 5]
+	- Gohan	Súper Saiyajin 2			[Traje 5 D]
+	- Gohan	Súper Saiyajin 2			[Traje 6]
+	- Gohan	Súper Saiyajin 2			[Traje 7]
+	- Gohan	Definitivo					[Traje 5]
+	- Gohan	Definitivo					[Traje 5 D]
+	- Gohan	Definitivo					[Traje 6]
+	- Gohan	Definitivo					[Traje 7]
+	- Gohan	Beast						[Traje 5]
+	- Gohan	Beast						[Traje 5 D]
+	- Gohan	Beast						[Traje 6]
+	- Gohan	Beast						[Traje 7]
+	- Gohan del Futuro					[Traje 1 D]
+	- Gohan del Futuro					[Traje 3]
+	- Gohan del Futuro					[Traje 3 D]
+	- Gohan del Futuro					[Traje 4]
+	- Gohan del Futuro					[Traje 5]
+	- Gohan del Futuro					[Traje 5 D]
+	- Gohan del Futuro					[Traje 6]
+	- Gohan del Futuro					[Traje 6 D]
+	- Gohan del Futuro Súper Saiyajin	[Traje 1 D]
+	- Gohan del Futuro Súper Saiyajin	[Traje 3]
+	- Gohan del Futuro Súper Saiyajin	[Traje 3 D]
+	- Gohan del Futuro Súper Saiyajin	[Traje 4]
+	- Gohan del Futuro Súper Saiyajin	[Traje 5]
+	- Gohan del Futuro Súper Saiyajin	[Traje 5 D]
+	- Gohan del Futuro Súper Saiyajin	[Traje 6]
+	- Gohan del Futuro Súper Saiyajin	[Traje 6 D]
+	- Joven Gohan						[Traje 2 D]
+	- Joven Gohan						[Traje 5]
+	- Joven Gohan						[Traje 5 D]
+	- Joven Gohan Súper Saiyajin		[Traje 2 D]
+	- Joven Gohan Súper Saiyajin		[Traje 5]
+	- Joven Gohan Súper Saiyajin		[Traje 5 D]
+	- Joven Gohan Súper Saiyajin 2		[Traje 2 D]
+	- Joven Gohan Súper Saiyajin 2		[Traje 5]
+	- Joven Gohan Súper Saiyajin 2		[Traje 5 D]
+	- Goten 							[Traje 2]
+	- Goten Súper Saiyajin				[Traje 2]
+	- Goten (GT) 						[Traje 5]
+	- Goten (GT) Súper Saiyajin			[Traje 5]
+	- Gohan (Niño) 						[Traje 5]
+	- Goku (Niño) 						[Traje 4]
+	- Goku (Niño) 						[Traje 5]
+	- Ozaru 							[Traje 5]
+	- Goku (Med) 						[Traje 5]
+	- Goku (Med) 						[Traje 5 D]
+	- Goku (Med) 						[Traje 6]
+	- Goku (Med) 						[Traje 7]
+	- Goku (Med) 						[Traje 7 D]
+	- Goku (Med) 						[Traje 8]
+	- Goku (Med) Súper Saiyajin			[Traje 5]
+	- Goku (Med) Súper Saiyajin			[Traje 5 D]
+	- Goku (Med) Súper Saiyajin			[Traje 6]
+	- Goku (Med) Súper Saiyajin			[Traje 7]
+	- Goku (Med) Súper Saiyajin			[Traje 7 D]
+	- Goku (Med) Súper Saiyajin			[Traje 8]
+	- Goku (Fin)						[Traje 5]
+	- Goku (Fin)						[Traje 5 D]
+	- Goku (Fin) Super Saiyajin			[Traje 5]
+	- Goku (Fin) Super Saiyajin			[Traje 5 D]
+	- Goku (Fin) Super Saiyajin 2		[Traje 5]
+	- Goku (Fin) Super Saiyajin 2		[Traje 5 D]
+	- Goku (Fin) Super Saiyajin 3		[Traje 5]
+	- Goku (Fin) Super Saiyajin 3		[Traje 5 D]
+	- Goku (Fin) Super Saiyajin Dios	[Traje 5]
+	- Goku (Fin) Super Saiyajin Dios	[Traje 5 D]
+	- Goku (Fin) Super Saiyajin Blue	[Traje 5]
+	- Goku (Fin) Super Saiyajin Blue	[Traje 5 D]
+	- Gotenks							[Traje 1 D]
+	- Gotenks							[Traje 3]
+	- Gotenks Súper Saiyajin			[Traje 1 D]
+	- Gotenks Súper Saiyajin			[Traje 3]
+	- Gotenks Súper Saiyajin 3			[Traje 1 D]
+	- Gotenks Súper Saiyajin 3			[Traje 3]
+	- Hatchiyack						[Traje 1]
+	- Hatchiyack						[Traje 2]
+	- Héroe Namek						[Traje 2]
+	- Héroe Saiyan						[Traje 2]
+	- Héroe Freezer						[Traje 2]
+	- Kale								[Traje 1]
+	- Kale								[Traje 2]
+	- Kale Súper Saiyajin				[Traje 1]
+	- Kale Súper Saiyajin				[Traje 2]
+	- Kale Súper Saiyajin Berserk		[Traje 1]
+	- Kale Súper Saiyajin Berserk		[Traje 2]
+	- Krillin							[Traje 1 D]
+	- Krillin							[Traje 2 D]
+	- Krillin							[Traje 3 D]
+	- Krillin							[Traje 5]
+	- Krillin							[Traje 6]
+	- Miira								[Traje 1]
+	- Paikuhan							[Traje 1 D]
+	- Paikuhan							[Traje 2]
+	- Pan								[Traje 2]
+	- Pan								[Traje 3]
+	- Saibamen 							[Traje 5]
+	- Saibamen 							[Traje 6]
+	- Saibamen 							[Traje 7]
+	- Saibamen 							[Traje 8]
+	- Soldado de Freezer 				[Traje 4]
+	- Soldado de Freezer 				[Traje 5]
+	- Tenshinhan 						[Traje 2]
+	- Tenshinhan						[Traje 3 D]
+	- Tenshinhan 						[Traje 5]
+	- Tenshinhan						[Traje 5 D]
+	- Tenshinhan						[Traje 6]
+	- Trunks (Espada) Súper Saiyajin	[Traje 1]
+	- Trunks (Espada) Súper Saiyajin	[Traje 2]
+	- Trunks (Espada) Súper Saiyajin	[Traje 3]
+	- Trunks (Espada) Súper Saiyajin 2	[Traje 1]
+	- Trunks (Espada) Súper Saiyajin 2	[Traje 2]
+	- Trunks (Espada) Súper Saiyajin 2	[Traje 3]
+	- Trunks							[Traje 5]
+	- Trunks Súper Saiyajin				[Traje 5]
+	- Super Trunks						[Traje 5]
+	- Vegetto							[Traje 3]
+	- Vegetto							[Traje 4]
+	- Vegetto							[Traje 4 D]
+	- Vegetto							[Traje 5]
+	- Vegetto							[Traje 5 D]
+	- Vegetto Súper Saiyajin			[Traje 3]
+	- Vegetto Súper Saiyajin			[Traje 4]
+	- Vegetto Súper Saiyajin			[Traje 4 D]
+	- Vegetto Súper Saiyajin			[Traje 5]
+	- Vegetto Súper Saiyajin			[Traje 5 D]
+	- Vegetto Súper Saiyajin Blue		[Traje 3]
+	- Vegetto Súper Saiyajin Blue		[Traje 4]
+	- Vegetto Súper Saiyajin Blue		[Traje 4 D]
+	- Vegetto Súper Saiyajin Blue		[Traje 5]
+	- Vegetto Súper Saiyajin Blue		[Traje 5 D]
+	- Vegeta							[Traje 3]
+	- Vegeta							[Traje 5]
+	- Vegeta Súper Saiyajin				[Traje 3]
+	- Vegeta Súper Saiyajin				[Traje 5]
+	- Vegeta Súper Saiyajin	2			[Traje 3]
+	- Vegeta Súper Saiyajin	2			[Traje 5]
+	- Súper Vegeta						[Traje 3]
+	- Súper Vegeta						[Traje 5]
+	- Vegeta Súper Saiyajin	God			[Traje 3]
+	- Vegeta Súper Saiyajin	God			[Traje 5]
+	- Vegeta Súper Saiyajin	Blue		[Traje 3]
+	- Vegeta Súper Saiyajin	Blue		[Traje 5]
+	- Vegeta Súper Saiyajin	Blue Evo	[Traje 3]
+	- Vegeta Súper Saiyajin	Blue Evo	[Traje 5]
+	- Majin Vegeta 						[Traje 1 D]
+	- Yamcha							[Traje 4]
+	- Yamcha							[Traje 5]
+- Nuevos Artes Conceptuales
+	- Gohan (Niño)
+	- Milk
+	- Krillin
+	- Chaoz
+	- Super Trunks
+	- Baby Vegeta
+	- Super Baby 1
+	- Gohan del Futuro
+	- Gohan del Futuro Súper Saiyajin
+	- Goku (GT)
+	- Goku (GT) Súper Saiyajin
+	- Goku (GT) Súper Saiyajin 4
+	- Vegeta (GT) Súper Saiyajin 4
+	- Broly Súper Saiyajin Legendario
+	- Spopovich
+- Varios
+	- [Moveset] Goku Súper Saiyajin 2
+	- [Moveset] Vegeta (GT) Súper Saiyajin 4
+	- [Transformacion] Super Buu
+	- [Transformacion] Super Buu Gotenks
+- Audio
+	- Kale Audio Latino
+	- Caulifla Audio Latino
+	- Completa renovacion en calidad de Audio Latino.
+	- Audios de Mayor Calidad en Combate.
+	- BGM (Soundtrack) Renovado.
+	- Varios Efectos de Sonido en combate actualizados.
+- Combate
+	- CPU:
+		- La IA se transforma de forma mas frecuente.
+	- Cambio de Cuerpo de Ginyu:
+		- Ginyu puede realizar sus Técnicas, Habilidades y Combos de Ráfaga luego de un cambio de cuerpo.
+		- Ginyu no puede realizar mas de un cambio de cuerpo por batalla.
+		- "Ginyu Goku" y "Ginyu Tagoma" solo Accesibles por Cambio de Cuerpo.
+	- Sistema de Contra Z:
+		- Timing de Contra-Z ampliado.
+		- Ganancia completa de Ki al realizar con éxito una Contra Z.
+		- Buff de Defensa al realizar con exito una Contra Z.
+	- Sistema de Vanishing Attack:
+		- Ganancia de 1 Blast Stock al evadir con éxito una Técnica de Acometida (Rush B2/UB).
+		- Vanishing Attack automatico al evadir con éxito una Técnica de Acometida (Rush B2/UB).
+		- Choque Aereo ahora se produce luego de 7 Vanishing Attack Consecutivos sin ganador.
+	- Sistema de Burla
+		- Burla realizable manualmente con L1 + O (Circulo).
+		- Burla disminuye Ki del oponente inversamente proporcional a cantidad de burlas realizadas.
+		- Burla aumenta energia de ráfagas inversamente proporcional a cantidad de burlas realizadas.
+- Bug Fixes
+	- [Bloqueo] Seleccionar un Personaje Aleatorio con Personalización.
+	- [Bloqueo] Usar Habilidad Kaioken antes de Evento de Modo Historia con poco Ki.
+	- [Parametros Incorrectos] Habilidad de Alta Tensión de Toppo.
+	- [Parametros Incorrectos] Segunda Técnica de Goten GT (Lanzamiento).
+	- [Parametros Incorrectos] Ataque Definitivo de Zamas desintegra oponente.
+	- [Parametros Incorrectos] Objeto Z "Cuerpo Definitivo" Desbloqueable en primer capitulo de Saga Especial.
+	- [Exploit] Burter ya no roba Ki a Oponente Fatigado.
+	- [Error Gráfico] Trunks Super Saiyajin 2 Traje 3 Dañado (Parpadeo).
+	- [Error Gráfico] Súper Trunks Traje 3 (Reloj en Muñeca).
+	- [Error Gráfico] Súper Trunks Traje 4 Dañado (Texturas Incorrectas).
+	- [Error Gráfico] Gran Saiyaman ahora posee reflejos en su casco.
+	- [Error Gráfico] Androide 17 Esferas de Color Amarillo.
+	- [Error Gráfico] Error de Tipeo en Biografia de Gohan Adulto.
+	- [Error Gráfico] Lista de Habilidades y Técnicas corregidas en todos los personajes.
+	- [Error Gráfico] Imagen de Kale Super Saiyajin corregida en todos los Modos de Juego.
+	- [Error Gráfico] Freezer Xeno volvia a la normalidad en Batalla de Modo Héroe.
+	- [Error Gráfico] Imagenes de Técnicas adaptadas a 16:9
+	- [CPU VS CPU] CPU Player 2 ya no obtiene ventaja en ningun tipo de Choque.
+
+*Beta XII Rev 3 (0.12.2) 23/04/23
+Bug Fixes:
+    - Listas de Texto
+    - Gohan Joven Super Saiyajin 2 (Ira Serena Imbloqueable).
+    - Black Goku Super Saiyajin Rose y Zamas (Audio de Fusión).
+    - Fusiones (Crasheos en Consola).
+    - Broly (DBS) Super Saiyajin Maximo Poder (Animaciones de Postura y Agarre).
+    - Nuevas Canciones y Mapas Aleatorios en Modos Duelo y Entrenamiento.
+    - Gohan Bestia (Mueve Personajes Gigantes).
+    - TeamBT4 (Imagenes de Tag).
+    - Enemigos Correctos en Misión de Supervivencia "Problemas Infernales".
+    - Daños de Combos.
+    - Consumo de Ráfagas en Habilidades
+
+*Beta XII Rev 2 (v0.12.1) 15/04/2023
+- Bug Fixes:
+   - Gran Saiyaman  [Crasheos al realizar Expresiones Faciales].
+   - Majin Bu Pura Maldad [Crash en Traje 2].
+   - Gohan Bestia [Crash en Audio Japones].
+   - Kaioshin [Transformación sin Audio Japones].
+   - Cell Perfecto [Consumo de Ráfagas para Barrera Gigante].
+   - Gohan Adulto Base [Animacion de Agarre].
+   - Broly (DBS) Super Saiyajin [Traje 2 Texturas Erroneas].
+   - Goku GT (Base y Super Saiyajin 3) [Bug Gráfico en expresiónes Faciales en Traje 4].
+   - Gohan Bestia Enlazado a Transformaciónes de Gohan Adulto.
+   - Majuub [Traje 2 Restaurado].
+   - Majuub [Traje 3 Duplicado Removido].
+   - Gohan Joven Super Saiyajin 2 [Blast Combos].
+   - Personajes accesibles en Combate sin estar propiamente desbloqueados.
+   - Bug Gráfico al Seleccionar Personaje luego de jugar con el Héroe en Modo Nido del Tiempo y cambiar de Modo.
+   - Imagen Incorrecta de Kale Super Saiyajin en varios Menus
+   - Audios de Fusión Incorrectos en Japones.
+   - Personajes Androides no cargaban Ki por Completo.
+   - Hit [Fondo de Timeskip]
+   - Paikuhan [Traje 2 Bug Gráfico]
+   - Hildegarn [Traje 2 Bug Gráfico]
+   - Freezer No Recupera Ki al quedar Fatigado y volver a Forma Final.
+
+*Beta XII(v0.12) 08/04/2023
+- Modo Historia
+	- Saga GT (Capitulo 3).
+- Nuevas Mecánicas
+	- Nueva Camara de Batalla (Tipo A, B y C).
+	- Nueva Camara al ser Derrotado.
+	- Destransformación Automatica al quedar Fatigado.
+	- Funcionamiento de Transformaciones estilo Raging Blast (Consumo de Ki).
+	- Torneo del Poder (Torneo Mundial con Mapa de Combate Progresivo).
+	- Nuevas Escenas de Transformacion Especiales.
+	- Personajes Repetibles:
+		- Saibaiman
+		- Cell Jr.
+		- Metal Cooler.
+		- Soldado de Freezer.
+- Personajes Restaurados:
+	- Bardock (Ozaru)
+	- Abuelo Gohan
+	- Chichi
+	- Devilman
+	- General Blue
+	- Octavio
+	- Nam
+	- Tambourine
+	- Cyborg Tao
+	- Maquina Pilaf
+	- Maquina Pilaf Fusion
+	- Piccoro (Inicio)
+	- Garlick Jr.
+	- Super Garlick Jr.
+	- Dr. Wheelo
+	- Saibaiman
+	- Dr. Gero
+	- Salza
+	- Zangya
+	- Broly
+	- Broly Super Saiyajin
+	- Broly Super Saiyajin Legendario
+	- Kibitoshin
+	- Majin Buu (Pura Maldad)
+	- Babidi
+	- Spopovich
+	- Uub (GT)
+	- Shin Shenron
+- Nuevos Personajes:
+	- Gohan Bestia
+- Trajes
+	- Videl (Traje 4).
+	- Gran Saiyaman 2 (Revision Completa).
+	- Gran Saiyaman (Revision Completa).
+	- Slug (Revision Completa).
+	- Broly (DBS) (Revision Completa).
+	- Bardock Ozaru (Revision Completa).
+	- Piccoro Inicio (Revision Completa).
+	- Piccoro Fin Traje 3
+	- Tao Pai Pai (Revision Completa).
+	- Tao Cyborg (Revision Completa).
+	- Garlick Jr. (Revision Completa).
+	- Saibaiman (Revision Completa).
+	- Vegeta Super Saiyajin 4 (Revision Completa).
+	- Trunks (Espada) Super Saiyajin (Trajes 1 y 2).
+	- Kaioshin (Revision Completa).
+	- Kibitoshin (Revision Completa).
+	- Goku (GT) Traje 4.
+	- Gohan Traje 4.
+	- Gohan Traje 1 (Dañado).
+	- Mecha Freezer (Revision Completa).
+	- Zangya Traje 2.
+	- Zamas (Revision Completa).
+- Diseño de Menus
+	- Palacio de Baba (Centro de Datos).
+	- Torneo del Poder (Torneo de Yamcha).
+		- La caracteristica Aleatoria del Torneo de Yamcha ha sido movida al
+			Gran Torneo Mundial.
+	- General:
+		- Cuadros de Dialogo.
+		- Cuadros de Guardado.
+		- Imagenes Varias mejoradas.
+- Imagenes Conceptuales de Personaje:
+	- Bardock.
+	- Bardock Super Saiyajin (Revision).
+	- Cell 1ra Forma.
+	- Cell 2da Forma.
+	- Cooler (Revision).
+	- Cooler Forma Final (Revision).
+	- Metal Cooler
+	- Garlick Jr.
+	- Goku (Fin) (Revision).
+	- Goku (Fin) Super Saiyajin 2 (Revision).
+	- Goku (Fin) Super Saiyajin God.
+	- Goku (Fin) Ultra Instinto (Revision).
+	- Goku (GT) Super Saiyajin (Revision).
+	- Gotenks (Revision).
+	- Eis Shenron
+	- Nappa (Revision).
+	- Uub (Niño) (Revision).
+	- Majuub (Revision).
+	- Trunks
+	- Trunks Super Saiyajin.
+	- Vegeta (Scouter).
+	- Super Vegeta
+	- Vegeta Super Saiyajin God (Revision).
+	- Vegetto (Revision).
+- Miscelaneo
+	- Broly (DBS) Super Saiyajin Legendario
+		- Nueva Escena de Introducción
+	- Trunks (Espada) Super Saiyajin / 2 / Rage
+		- Nuevas Escenas y Audios de Transformación.
+	- Super Baby 2
+		- Nueva Escena de Transformación.
+	- Gohan (Joven) Super Saiyajin 2
+		- Nuevo Blast 2 Secundario (Quiet Rage).
+	- Freezer 100% / Golden
+		- Nuevas Escenas de Transformación.
+	- Gohan Base / Super Saiyajin / Super Saiyajin 2 / Definitivo
+		- Nuevas Escenas de Transformación.
+	- Goku (Fin) Super Saiyajin Blue
+		- Revision de Ataque Kaioken.
+	- Vegeta Super Saiyan 2 / Super Vegeta / Super Saiyajin God
+		- Nuevas Escenas de Transformación.
+	- Vegetto Super Saiyajin / Super Saiyajin Blue
+		- Nuevas Escenas de Transformación.
+	- Kaioshin
+		- Nueva Escena de Transformación
+	- Revision de Heroes en Modo Nido del Tiempo (BETA).
+	- Nuevas Misiones en Modo "Misión Paralela".
+	- Nuevos Semi-Dañados para personajes que aun no los poseian.
+	- Nuevo Rebalance Competitivo
+		- Clases de Personajes Reiniciadas
+		- Ajustes de Estadisticas Generales.
+		- Ajustes de Consumos de Ráfagas para Blast 1.
+		- Nuevo Ajuste de Daños de Blast Combos.
+- Bug Fixes
+	- Goku Niño Traje 1 Semidañado Crash en Tecnicas.
+	- Inconsistencias con Semi Dañados.
+	- Tapion (Estela de Espada).
+	- Sabiduria Dragón (Nuevos Personajes).
+	- Gohan Super Saiyajin (Semi Dañado)
+	- Golden Freezer (Semi Dañado).
+	- Goku [Inicio] (Traje Dañado).
+	- Joven Gohan Super Saiyajin 2 (Destransformacion).
+	- Dialogos de Introduccion/Fin de Combate Especiales.
+	- Black Goku Super Saiyajin Rosé (Transformación).
+	- Introducción de Passwords para Personajes Nuevos.
+	- Carga Inicial del Juego Reducida.
+	- Personajes Desbloqueados por Defecto.
+	- Corrección de Efecto de Sonido de Transformación Super Saiyajin.
+	- Corrección de Posicion de personajes en varios Mapas al efectuar un Clash Aereo.
+	
+*Beta XI (v0.11) 26/09/2022
+- Modo Historia
+	- Saga Majin Bu Capitulo 5 (Unificacion)
+	- Saga Majin Bu Capitulo 6 (El Sueño de Goku)
+- Personajes Restaurados:
+	- Bojack
+	- Gran Saiyaman 2
+	- Rey Vegeta
+	- Rey Vegeta Ozaru
+	- Raditz Ozaru
+	- Nappa Ozaru
+	- Fasha Ozaru
+	- Turles Ozaru
+- Nuevos Trajes/Trajes Renovados
+	- Goku Inicio Traje 2 (Incluido Objeto Especial)
+	- Goku Inicio Traje 4
+	- Goku Medio Traje 3 (Incluido Dañado)
+	- Goku Medio Super Saiyajin Traje 3 (Incluido Dañado)
+	- Goku Medio Traje 4 (Objeto Especial)
+	- Goku Medio Super Saiyajin Traje 4 (Objeto Especial)
+	- Goku Fin Traje 4 (Dañado)
+	- Gohan Traje 1 (Objeto Especial)
+	- Kale Traje 1
+	- Kale Traje 2
+	- Vegeta (Rastreador) Traje 4
+	- Nail Traje 1 (Dañado)
+- Nuevos Soundtracks
+	- Dash And Strike (Vocal)
+	- Dash And Strike (Vocal Short Ver.)
+	- Dash And Strike (Instrumental)
+	- Dash And Strike (Instrumental Short Ver.)
+	- Battle of Gods Set
+	- Hero
+- Cambios en Jugabilidad
+	- La Mayoria de Personajes obtienen un Semi Dañado al tener 20.000HP o menos.
+	- Algunos Personajes obtienen mas Daño en su Traje Dañado al tener 20.000HP o menos.
+	- Onda Explosiva de Emergencia a 9000HP.
+	- Clash Aereo se produce a las 6 Respuestas Vanishinig o mas.
+	- Consumo de Ki de Respuesta Vanishing Aumentado.
+- Otros
+	- Ver Modelos Dañados en Modo Sabiduria Dragón pulsando Cuadrado en el selector de Traje.
+	- Zoom de Camara en Visor de Modelos de Sabiduria Dragon Restaurado (Analogo Derecho).
+	- Trivia de Zuno y Biografias de personaje actualizadas.
+	- Torneo del Otro Mundo ahora posee su Mapa Correspondiente en las Batallas.
+- Bug Fixes
+	- Error al Destruir un Planeta y volver a Luchar.
+	- Error Grafico al finalizar la Saga Especial.
+	- Trajes dañados de Personajes revisados en su mayoria.
+	- Mr. Satan (Piedras Infinitas).
+	- Secuencias de Destruccion de Planeta.
+	- Goku Medio Super Saiyajin (Coste de Habilidad Max Power).
+	- Bardock Super Saiyajin (Coste de Habilidad Max Power).
+	- Tilde en Nombres y formas de personajes.
+- Notas Adicionales:
+	- Debido a los nuevos cambios, ahora el juego demora unos 10 segundos extras en cargar al inicio (Para cargar las nuevas funcionalidades). Esto solo afecta al inicio del juego y en ninguna otra parte del mismo.
+	- Algunos de los personajes restaurados no apareceran en Sabiduria Dragon de Momento, completamente funcionales en todos los demas modos de juego.
+	- Completamente Funcional en Consola Playstation 2, Playstation 3 y Playstation 4 (utilizando la version especifica oficial lanzada por el TeamBT4 en nuestra pagina oficial de Wix), testeado en cada consola de manera individual.
+	- Los nuevos personajes, mapas y canciones no requieren de ningun Savedata especial ni de BT4, estan desbloqueados por defecto con cualquier tipo de "Savedata", sea de BT3 o BT4, y se encuentran desbloqueados por defecto al iniciar una nueva partida, sin embargo se recomienda de utilizar una nueva partida siempre que hayan cambios de Personajes nuevos o modificados para evitar situaciones problematicas con personalizaciones del modo "Evolucion Z".
+
+*Beta 10 Pro Rev (v0.10.4)* 28/08/2022
+- Modificaciones en Trajes
+	- Goku Super Saiyajin 4 Traje 2.
+	- Goten Niño Traje 1.
+	- Goten Niño Traje 3.
+	- Goten Niño Super Saiyajin Traje 1.
+	- Goten Niño Super Saiyajin Traje 3.	
+	- Jiren Traje 3.
+	- Pan Traje 1 (Dañado).
+	- Super Trunks Traje 4.
+	- Trunks Super Saiyajin Traje 3
+	- Uub Niño Traje 1.
+	- Uub Niño Traje 2.
+	- Vegetto Traje 2.
+	- Vegetto Super Saiyajin Traje 2.
+	- Vegetto Super Saiyajin Blue Traje 2.
+- Modificaciones en Mapas
+	- Infierno
+- Bug Fixes
+	- Voces Japonesas Revisadas.
+		- Escenarios de Modo Historia.
+		- Voces Faltantes de Personajes
+		- Voces Erroneas de Personajes.
+	- Nido del Tiempo
+		- Misión Paralela "El Regreso de Cooler" (Bug Gráfico) [Requiere Actualizar Savedata].
+		- Modo Batalla Circuito (Miniatura Súper Androide 17).
+		- Modo Heroe (Bug Gráfico en Opciones deshabilitadas).
+		- Misión "Guerreros Definitivos" Corregida.
+		- Ajustado Nivel de IA general en Misiónes Paralelas.
+		- Miniatura de Baby Ozaru al Seleccionar Personaje.
+	- Sabiduría Dragón
+		- Goku Niño (Repetido).
+	- Torneo Mundial
+		- Nombres de Nuevos Objetos Z.
+	- Opciones
+		- Cancion al salir de la Lista de Soundtracks.
+	- Secuencia de destrucción de mapa en Torneo del Poder.
+	- Imagen HUD de Trunks Traje 3 (Dañado).
+	- Coste de Habilidad 2 de Goku (Fin) SS2.
+	- Daño de Granadas de Mr. Satan.
+	- Hit Boxes de Slug Traje 3.
+	- Goku SSG Traje 1 Dañado (Halo Negro).
+	- Kale SSL (Halo Negro).
+
+*Beta 10 Pro (v0.10.3)* 19/08/2022
+- Cambios en Modo Historia
+	- Saga Super Capitulo 2 [Evento]
+	- Saga GT Capitulo 1 [Escenario]
+	- Saga Namek Capitulo 4 [Escenario y Evento]
+- Nuevas Imagenes de Selección
+	- Androide 13
+	- Androide 13 Fusión
+	- Baby 1ra Forma
+	- Baby Ozaru
+	- Freezer 3ra Forma
+	- Gohan (Joven)
+	- Goku (Inicio)
+	- Gotenks
+	- Trunks del Futuro
+	- Trunks Niño Super Saiyajin
+- Cambios en Modelos
+	- Androide 16
+	- Androide 13
+	- Androide 13 Fusión
+	- Baby Vegeta
+	- Cell
+	- Goku UI
+	- Janemba
+	- Jiren
+	- Trunks Niño
+	- Trunks Niño Super Saiyajin
+	- Zamasu Fusión
+- Nueva Mecánica de Contra Z
+- Nueva Mecánica de Batalla de Choque Aereo
+	- Luego de 8 respuestas de Contra Z
+	- Luego de Choque de Acometidas en Modo Poder Máximo.
+- Choques ahora utilizan Boton Circulo y Triangulo.
+- Nuevos Objetos Z
+	- Ropas Indestructibles
+	- Ropas Destruidas
+- Nueva Interfaz de Batalla
+- Ajuste a Objetos Z (Parametro "Ataques Melee pierden fuerza)
+- Nueva Dificultad "Extremo" Añadida a Modo Versus.
+- Nuevo Tiempo de Batalla (480 segundos).
+- Nuevas secuencias de transición de Mapa
+	- Namek
+	- Torneo del Poder
+	- Ring de Cell
+	- Area Rocosa
+- 12 Mapas Recuperados
+	- Páramos (Dia)
+	- Páramos (Noche)
+	- Area Rocosa (Tarde)
+	- Desierto (Tarde)
+	- Desierto (Noche)
+	- Ciudad en Ruinas (Noche)
+	- Ring de Cell (Tarde)
+	- Zona Montañosa (Tarde)
+	- Torre Músculo
+	- Espacio (Vegeta)
+	- Planeta (Noche)
+	- Tierra en Ruinas
+- 12 Mapas Nuevos
+	- Yermos (Noche)
+	- Templo de Kamisama (Noche)
+	- Namek (Agonizante)
+	- Palacio de Baba (Dia)
+	- Zona Montañosa (Noche)
+	- Kame House (Noche)
+	- Planeta de Bills
+	- Ciudad (Oeste)
+	- Planeta Tsufuru
+	- Torneo del Otro Mundo
+	- Islas FnF (Dia)
+	- Villa Pinguino (Noche)
+- Nuevos Efectos de Sonido en Menus.
+- Nuevas Canciones de Batalla.
+- Menus del Juego con Canciones Nuevas.
+- Coste de Onda Explosiva de Emergencia a 10000 HP
+- Nuevos Combos para personajes [Aporte de Kenneth Guerrero]
+	- Bardock Super Saiyajin
+	- Black Goku
+	- Black Goku Super Saiyajin Rosé
+	- Caulifla Super Saiyajin 2
+	- Goku Super Saiyajin God
+	- Goku Ultra Instinto
+	- Golden Freezer
+	- Hit
+	- Kefla Super Saiyajin
+	- Trunks Super Saiyajin 2
+	- Trunks Super Saiyajin Rage
+	- Vegeta Super Saiyajin God
+	- Vegeta Super Saiyajin Blue
+	- Vegeta Super Saiyajin Blue Evolution
+	- Vegetto Super Saiyajin Blue
+	- Zamasu Fusión
+- Bug Fixes
+	- Iluminación Kaioken en Escenas de Modo Historia
+	- Iluminación Kaioken en Goku Super Saiyajin Blue
+	- Heroe apareciendo en Torneo de Cell
+	- Nombres "Majunia" y "Shin" para Kale Super Saiyajin y Goku Super Saiyajin Dios en Torneos
+	- Efecto de Espada en Trunks Super Saiyajin 2, Trunks Super Saiyajin Rage y Zamas.
+	- Animaciones de Hildegarn y Janemba.
+	- Giant Throw Infinito (luego de Técnica Atravesable). 
+	- Input Delay en Animacion de Ascenso/Descenso luego de Golpe.
+	- Cell 2da Forma Traje 2 Auto Destrucción.
+	- Gogeta Super Saiyajin Blue [Tecnica 2]
+	- Goku UI [Kamehameha no Tumba Oponente]
+	- Caulifla Base [Sentido Salvaje]
+	- Piccoro [Falso Coraje]
+	- Gogeta [Brillo Erroneo]
+	- Freezer [Brillo Erroneo]
+	- Broly Super Saiyajin [Combo de Rafaga]
+	- Hildegarn [Postura]
+	- Jiren [Audio SFX en Tecnica 2]
+	- Menus con Cuadro de dialogo de Guardado incorrecto.
+	
+*Beta X-2 (v0.10.2)* 01/01/2022
+- Nuevas Imagenes de Selección
+	- Cooler 
+	- Cooler Forma Final
+	- Goku GT Super Saiyajin
+	- Goten
+	- Goten Super Saiyajin
+	- Gotenks Super Saiyajin 3
+	- Tao Pai Pai
+	- Mecha Freezer
+	- Majuub
+	- Heroe
+- Sincronizacion de LIPS en todos los personajes (Audio Latino)
+- Sincronizacion de LIPS en Sagas Dragon Ball y Dragon Ball GT (Audio Latino)
+- Canciones Nuevas ya no requieren Savedata Especial.
+- Unificacion de Versiones PS2 y Emulador.
+- Nuevo Menu Opciones
+- Modo Nido del Tiempo
+	- Habilitada la seleccion de todos los personajes.
+	- Corrección de Bugs en Misiones y Ranking.
+- Rebalance General en Cargas de Ki y otros aspectos de Gameplay.
+- Correcciónes y Añadidos
+	- Androide 18
+		- Ajuste de Camaras
+	- Bills
+		- Ajuste de Camaras
+		- Ajuste de Animaciones
+	- Broly
+		- Ajuste de Animaciones
+	- Cabba
+		- Ajuste de Camaras	
+	- Cabba - Super Saiyan
+		- Ajuste de Camaras
+		- Ajuste de Animaciones
+	- Caulifla
+		- Ajuste de Camaras
+		- Corrección en Texturas
+		- Nueva Animacion de Fusion
+	- Caulifla Super Saiyan
+		- Ajuste de Camaras
+	- Caulifla Super Saiyan 2
+		- Ajuste de Camaras
+		- Ajuste de Animaciones
+	- Eis Shenron
+		- Ajuste de Animaciones
+	- Frieza Soldier
+		- Ajuste de Camaras (Trajes 3 y 4)
+	- Fused Zamasu
+		- Ajuste de Camaras
+		- Ajuste de Animaciones
+	- Goku Super Saiyan 2
+		- Ajuste de Animaciones
+	- Goku Super Saiyan God
+		- Ajuste de Animaciones
+	- Goku Super Saiyan Blue
+		- Ajuste de Animaciones
+		- Habilidad Kaioken Corregida.
+	- Gogeta
+		- Ajuste de Camaras 
+	- Gogeta Super Saiyan Blue
+		- Ajuste de Animaciones
+	- Golden Frieza
+		- Ajuste de Camaras 
+	- Goten Niño
+		- Traje 2 Dañado Remodelado.
+	- Goten Niño Super Saiyan
+		- Traje 2 Dañado Remodelado.
+	- GT Goku Super Saiyan 4
+		- Ajuste de Camaras 
+	- GT Gogeta Super Saiyan 4
+		- Ajuste de Animaciones
+	- GT Vegeta Super Saiyan 4
+		- Ajuste de Camaras en Traje 1 
+		- Traje 1 Remodelado.
+	- Hatchiyack
+		- Ajuste de Camaras 
+		- Ajuste de Animaciones
+	- Heroe
+		- Ajuste de Animaciones
+		- Ajuste de Camaras 
+	- Hit
+		- Ajuste de Animaciones
+		- Corrección de renderizado
+	- Jiren
+		- Ajuste de Camaras 
+		- Ajuste de Animaciones
+		- Corrección de Crasheo con Ataque Definitivo
+		- Nueva 2da Tecnica.
+	- Kaioshin
+		- Ajuste de Camaras (Traje 1)
+	- Kale
+		- Remodelado
+		- Ajuste de Camaras 
+		- Ajuste de Animaciones
+		- Nueva Animacion de Fusion
+	- Kale Super Saiyan Legendario
+		- Ajuste de Camaras 
+		- Ajuste de Animaciones
+	- Kefla
+		- Ajuste de Camaras 
+		- Ajuste de Animaciones
+	- Kefla Super Saiyan
+		- Ajuste de Camaras 
+		- Ajuste de Animaciones
+	- Majin Buu
+		- Ajuste de Camaras (Traje 2) 
+	- Mecha Frieza
+		- Ajuste de Animaciones
+	- Pan
+		- Ajuste de Camaras (Traje 2)
+	- Piccolo
+		- Nuevo Traje 4
+	- Toppo
+		- Ajuste de Camaras	
+	- Toppo Destructor
+		- Ajuste de Animaciones
+		- Ajuste de Camaras
+	- Trunks (Espada) Super Saiyan 2
+		- Ajuste de Animaciones
+	- Trunks (Espada) Super Saiyan Rage
+		- Ajuste de Animaciones
+	- Uub Niño
+		- Ajuste de Animaciones
+	- Vegeta Super Saiyan God
+		- Ajuste de Animaciones
+	- Vegito Blue
+		- Ajuste de Animaciones
+	- Zamasu
+		- Ajuste de Animaciones
+
+*Beta 10 Revised (v0.10.1)* 16/09/2021
+- Modo Historia
+	- Saga Androide
+		- Trajes Correspondientes de Cell.
+	- Saga Super
+		- Desbloqueos
+- Mapas
+	- Planeta Destruido
+		- Corrección de Colisiones en Rocas.
+	- Torneo del Poder (Final)
+		- Ajuste de compatibilidad para 2 Jugadores.
+- Modos de Juego
+	- Nido del Tiempo
+		- Ajuste de Dificultad
+		- Corrección de Misiones con Errores
+		- Heroe Namek rehecho.
+- Bug Fixes
+	- Rebalance General.
+	- Rafagas de Ki. 
+	- Androide 18
+		- Combos de Ráfaga
+	- Bills
+		- Animacion de Referencia de Personaje
+	- Goku UI
+		- Nueva Animacion de Outro
+		- Nueva Animacion de Habilidad 2
+		- Nueva Aura de Habilidad 2
+	- Goten Niño Super Saiyajin
+		- Traje 1 Dañado Corregido.
+	- Goten GT Super Saiyajin
+		- Correccion de Ataque 2
+	- Super Vegeta
+		- Duracion de Animacion de Habilidad 2
+	- Vegetto Super Saiyajin Blue
+		- Audio Tecnica 3
+		
+*Beta 10 (v0.10)* - 12/02/2021
+- Modo Historia
+	- Saga Super Capitulo 16
+- Personajes
+	- Héroe									
+	- Eis Shenron							
+	- Ub (Niño)										
+	  Originales Modificados
+		- Androide 17						
+		- Androide 18						
+		- Bardock								
+		- Bardock Super Saiyajin 			
+		- Bojack							
+		- Cabba Super Saiyajin				
+		- Cell Perfecto						
+		- Gogeta (GT) Super Saiyajin 4		
+		- Vegeta								
+- Trajes
+	. Bardock Super Saiyajin					
+	- Black Goku Kaioshin					
+	- Black Goku Kaioshin Super Saiyajin Rose	
+	- Gohan DBS									
+	- Gohan DBS Super Saiyajin					
+	- Gohan DBS Super Saiyajin 2			
+	- Gohan DBS Definitivo					
+	- Gohan Saiyaman						
+	- Gohan Saiyaman Super Saiyajin				
+	- Gohan Saiyaman Super Saiyajin 2		
+	- Gohan Saiyaman Definitivo					
+	- Gohan (GT)						
+	- Gohan (GT) Super Saiyajin					
+	- Goku Niño									
+	- Goku Yardrat							
+	- Goku Yardrat Super Saiyajin			
+	- Goku (Fin) FnF							
+	- Goku (Fin) FnF Super Saiyajin				
+	- Goku (Fin) FnF Super Saiyajin 2		
+	- Goku (Fin) FnF Super Saiyajin 3			
+	- Goku (Fin) FnF Super Saiyajin God			
+	- Goku (Fin) FnF Super Saiyajin Blue		
+	- Goten (GT) 								
+	- Goten (GT) (Verde)						
+	- Goten (GT) Super Saiyajin				
+	- Goten (GT) Super Saiyajin (Verde) 	
+	- Gotenks (GT) Niño						
+	- Gotenks (GT) Niño Super Saiyajin			
+	- Gotenks (GT) Niño Super Saiyajin 3		
+	- Trunks (GT) 							
+	- Trunks (GT) Super Saiyajin			
+	- Vegeta FnF								
+	- Vegeta FnF Super Saiyajin				
+	- Vegeta FnF Super Saiyajin 2			
+	- Vegeta FnF Super Saiyajin 3			
+	- Vegeta FnF Super Saiyajin God			
+	- Vegeta FnF Super Saiyajin Blue			
+	- Vegeta FnF Super Saiyajin Blue Evolution	
+- Mapas
+	- Planicie (Tarde)							
+	- Glaciar 									
+	- Torneo de Cell (Ruinas)					
+	- Torneo del Poder (Inicio)					
+- Imagenes
+	- Androide 17
+	- Androide 18
+	- Androide 19
+	- Baby Vegeta (1ra Forma)
+	- Bardock Super Saiyajin
+	- Black Goku Super Saiyajin Rosé
+	- Caulifla
+	- Golden Freezer
+	- Gogeta Super Saiyajin 4
+	- Gohan (Joven)
+	- Gohan (Joven) Super Saiyajin 
+	- Goku (Medio)
+	- Goku (Fin)
+	- Goku (Fin) Super Saiyajin 2
+	- Goku (Fin) Super Saiyajin Blue
+	- Goku (Fin) Ultra Instinto
+	- Goku (Niño)
+	- Goku (GT)
+	- Majin Bu 
+	- Bu (Puro)
+	- Majuub
+	- Nappa
+	- Ten Shin Han
+	- Trunks Niño
+	- Trunks Super Saiyajin 2
+	- Trunks Super Saiyajin Rage
+	- Vegeta Super Saiyajin 2
+	- Vegeta Super Saiyajin 4
+	- Vegeta Super Saiyajin Blue
+	- Vegetto
+	- Yamcha
+	- Zamas Fusion
+	- Yermos
+	- Ciudad (Sur)
+	- Islas (Tarde)
+	- Palacio de Baba
+	- Torneo de Champa
+	- Torneo del Poder (Medio)
+	- Torneo del Poder (Final)
+	- Ártico
+	- Espacio
+- Menus
+	- Menu Principal
+	- Duelo
+	- Modo Historia: Saga Especial
+	- Sabiduria Dragón
+	- Nido del Tiempo
+		- Modo Héroe
+		- Mision Paralela
+		- Supervivencia
+		- Desafíos
+- Bug Fixes
+	- Gogeta Super Saiyajin Blue 
+		- Ataque 3 [Choque]
+	- Goten GT Super Saiyajin
+		- Ataque 2 [Imbloqueable]
+	- Vegeta Ozaru
+		- Combo de ráfaga.
+		
+*Beta 8 (v0.8)*
+- Modo Historia
+	- Saga Super Capitulo 15
+	- Saga Dragon Ball Capitulo 2
+- Personajes
+	- Hatchiyack							
+	- Vegeta Super Saiyajin God						
+	  Originales Modificados
+		- Arale								
+		- Bardock Super Saiyajin			
+		- Gohan Super Saiyajin 2 			
+		- Goku Super Saiyajin 2				
+		- Goku Super Saiyajin God 			
+		- Goten Super Saiyajin					
+		- Goten (GT) Super Saiyajin				
+		- Vegetto							
+		- Super Vegetto						
+- Trajes
+	- Caulifla								
+	- Caulifla Super Saiyajin					
+	- Caulifla Super Saiyajin 2					
+	- Chaos DBS								
+	- Devilman								
+	- Drum									
+	- Eis Shenron							
+	- Elite de Dodoria 1				
+	- Elite de Dodoria 2						
+	- General Blue							
+	- Gohan Niño Pelo Corto con Cola			
+	- Gohan Niño Pelo Largo con Cola		
+	- Gohan Niño Gi Kame con Cola		
+	- Goku GT (Gi Niño)							
+	- Goku GT Super Saiyajin 4 (Gi Niño)	
+	- Goten Niño Dañado							
+	- Goten Niño Super Saiyajin Dañado			
+	- Goten Niño Ultra Dañado					
+	- Goten Niño Super Saiyajin Ultra Dañado	
+	- Jiren Full Power							
+	- Super Garlick Jr.						
+	- Tambourine							
+	- Tenshinhan DB								
+	- Trunks Niño Dañado						
+	- Trunks Niño Super Saiyajin Dañado			
+	- Yajirobe Mirai						
+- Mapas
+	- Villa Pinguino						
+	- Torneo del Poder (Final)					
+	- Nevado								
+- Nuevas Imagenes de Selección
+	- Baby Vegeta
+	- Baby Vegeta Super Baby 2
+	- Bardock Super Saiyajin
+	- Freezer Forma Final
+	- Goku GT
+	- Goku GT Super Saiyajin 
+	- Goku GT Super Saiyajin 3
+	- Goku GT Super Saiyajin 4
+	- Majin Bu
+	- Nappa
+- Otros
+	- Nuevo Opening
+	- Nuevo Ending
+	- Destransformacion Nueva
+	- Nuevo HUD
+	- Nuevos Textos de Batalla
+	- Nuevas Misiones 100
+	- Nuevo Ranking
+	- Nueva Cancion
+- Bug Fixes
+	- Bardock 
+		- Transformacion
+	- Bills 
+		- Tecnica 2 (Animaciones)
+	- Gogeta Blue
+		- Tecnica 2
+		- Capacidad para realizar el Giant Throw
+		- Tecnica 1 (Camara)
+		- Tecnica 1 (Afecta Gigantes)
+	- Gogeta 
+		- Capacidad para realizar el Giant Throw
+	- Gohan
+		- Tecnica 1
+	- Goku Super Saiyajin 2 
+		- Costo de Transformacion a Super Saiyajin Blue
+	- Goku Super Saiyajin 3 
+		- Costo de Transformacion a Super Saiyajin Blue
+	- Goku Super Saiyajin Blue 
+		- Capacidad para realizar el Giant Throw
+	- Goku Ultra Instinto
+		- Habilidad 1 (Consumo)
+		- Tecnica 3 (Delay)
+	- Kale Super Saiyajin Legendario
+		- Tecnica 2 (Bloqueable)
+	- Magetta 
+		- Tamaño
+		- Animacion de caida
+	- Toppo Hakaishin 
+		- Tecnica 2 (Bloqueable)
+	- Trunks Super Saiyajin 2 
+		- Combos
+	- Trunks Super Saiyajin Rage 
+		- Combos
+	- Ub
+		- Habilidad 2
+	- Vegeta Super Saiyajin Blue Evolution 
+		- Capacidad de Romper Armadura
+		
+*Beta 6.6 (v0.6.6.6)*
+- Modo Historia
+	- Saga Super Capitulo 15
+	- Saga Dragon Ball Capitulo 1
+	- Saga GT Capitulo 2
+	- Saga Especial Capitulo 3
+- Personajes
+	- Soldados de Freezer						
+	- Gogeta									
+	- Gogeta Super Saiyajin Blue				
+	- Toppo Hakaishin							
+	  Originales Modificados
+		- Gohan Joven							
+		- Gohan del Futuro 						
+		- Goku Super Saiyajin Blue Kaioken	
+		- Androide 17						
+		- Jeice									
+		- Burter								
+		- Kefla									
+		- Vegetto Blue						
+		- Broly									
+		- Broly Super Saiyajin Legendario		
+		- Jiren									
+- Trajes Añadidos/Mejorados
+	- Anilaza 									
+	- Bills									
+	- Bills Ceremonial						
+	- Bardock DBSB							
+	- Bardock DBSB Super Saiyajin			
+	- Bergamo									
+	- Botamo									
+	- Broly Reubicado
+		- Broly DBS							
+		- Broly Movie 1						
+		- Broly Movie 2							
+		- Broly Raging Blast				
+	- Dabura Voluntad Demoniaca					
+	- Gogeta Super Saiyajin 4					
+	- Goku Super Saiyajin 4					
+	- Goku Ultra Instinto Dañado			
+	- Golden Cooler							
+	- Hit Ligero (Manga)					
+	- Kale Super Saiyajin Legendario			
+	- Nappa Joven							
+	- Maestro Roshi DBS							
+	- Maestro Roshi MAX DBS					
+	- Magetta									
+	- Paikuhan Atuendo Kaioshin					
+	- Paragus									
+	- Puipui								
+	- Saibaman									
+	- Spopovitch							
+	- Tenshinhan Dañado							
+	- Terry Bogard 								
+	- Super Terry Bogard					
+	- Ub Multiverse							
+	- Vegeta GT								
+	- Vegeta GT Super Saiyajin 					
+	- Vegeta GT Super Saiyajin Dai ni Dankai	
+	- Vegeta GT Super Saiyajin 2				
+	- Vegeta GT Super Saiyajin Blue				
+	- Vegeta GT Super Saiyajin Blue Evolution	
+	- Vegeta Blue								
+	- Vegeta Blue Evolution						
+	- Vegeta Super Saiyajin 4					
+	- Vegetto Blue							
+	- Yakon										
+	- Yamu 									
+	- Zamas										
+- Mapas Nuevos/Mejorados
+	- Torneo del Poder Destruido			
+	- Torneo de Champa							
+	- Habitacion del Tiempo						
+- Menus Nuevos
+	- Modo Entrenamiento
+- Bug Fixes
+	- Hit 										
+		- Animacion Char. Reference
+	- Goku (Med) Super Saiyajin			
+		- Kamehameha Furioso
+	- Bills						
+		- Armor
+	- Golden Freezer 				
+		- Animacion de Cola en Tecnica 2
+	- Vegeta Blue					
+		- Traje 2 Ultra Dañado
+	- Jiren						
+		- Ataque 1 Hace choque de poderes
+	- Consumo de Ki y Rafagas
+		- Bills
+		- Black Goku
+		- Black Goku Super Saiyajin
+		- Caulifla Super Saiyajin
+		- Caulifla Super Saiyajin 2
+		- Kale
+		- Kale Super Saiyajin 
+		- Kefla
+		- Kefla Super Saiyajin
+		- Goku Super Saiyajin Blue Kaioken
+		- Goku Ultra Instinto
+		- Golden Freezer
+		- Hit
+		- Jiren
+		- Toppo
+		- Trunks Super Saiyajin 2
+		- Vegeta Super Saiyajin Blue
+		- Vegeta Super Saiyajin Blue Evolution
+		- Zamas
+		- Zamas Fusion
+		
+*Beta 6.5 (v0.6.5)* - 01/03/2019
+- Trajes Adicionales
+	- Bojack Base 							
+	- Broly DBS								
+	- Broly Super Saiyajin DBS				
+	- Broly Super Saiyajin Legendario DBS	
+- Bug Fixes
+	- Golden Freezer
+		- Ajuste de daño de Tecnicas y Golpes
+	- Super Trunks
+		- Ajuste de daño de Golpes
+	- Vegeta Super Saiyajin Blue Evolution
+		- No volvia a forma Base
+	- Vegeta Super Saiyajin Blue
+		- Daño de Tecnica 2.
+	- Raditz
+		- Traje 2 Crasheaba en PS2.
+	- Modo Ranking
+		- Imagenes pequeñas.
+	- Modo Batalla Z
+		- Imagenes pequeñas.
+		
+*Beta 6 (v0.6)*
+- Modo Historia
+	- Saga Especial Capitulo 1 (Cooler)
+	- Saga Super Capitulo 3 (Remake).
+	- Saga Super Capitulo 13
+	- Saga Super Capitulo 14
+- Personajes Nuevos/Modificados
+	- Nail											
+	- Kale Super Saiyajin 							
+	- Kale Super Saiyajin Legendario				
+	- Kefla											
+	- Kefla Super Saiyajin						
+	- Vegeta Super Saiyajin Blue Evolution		
+	- Goku Ultra Instinto							
+	- Freezer									
+		- Su Traje 1 ahora puede utilizar Halo con el "Objeto Especial".
+	- Toppo Hakaishin (No Disponible)				
+	  Ataques Modificados
+		- Gogeta Super Saiyajin 4				
+		- Zamas										
+		- Trunks Super Saiyajin 2					
+		- Vegeta (Explorador) Ozaru				
+		- Vegeta Super Saiyajin Blue			
+		- Piccoro								
+		- Majuub									
+		- Jiren 								
+		- Goku Ultra Instinto						
+		- Bardock Super Saiyajin				
+		- Hit										
+- Trajes Adicionales
+	- Androide 16 Capsule Corp					
+	- Androide 20								
+	- Broly DBS										
+	- Broly Super Saiyajin DBS						
+	- Broly Super Saiyajin Legendario DBS			
+	- Dyspo											
+	- Cell Jr.									
+	- Majin A21									
+	- Frost Forma Final								
+	- Gogeta DBS								
+	- Gogeta DBZ 									
+	- Gogeta Xeno									
+	- Gogeta Super Saiyajin 3					
+	- Gogeta Xeno Super Saiyajin 4				
+	- Gohan GT Base									
+	- Gohan GT Super Saiyajin					
+	- Goku (Med) Nuevo Dañado					
+	- Goku (Med) Super Saiyajin Nuevo Dañado		
+	- Goku Niño Traje de Entrenamiento			
+	- Goku GT Ultra Dañado						
+	- Goku GT Super Saiyajin Ultra Dañado			
+	- Goku GT Super Saiyajin 3 Ultra Dañado			
+	- Goku GT Super Saiyajin 4 Ultra Dañado		
+	- Goku Ultra Instinto Completo					
+	- Goku Semi Ultra Instinto						
+	- Goku Ultra Instinto Completo Dañado			
+	- Goten Xeno									
+	- Goten Xeno Super Saiyajin						
+	- Anilaza								
+	- Kid Goten Ultra Dañado						
+	- Kid Goten Super Saiyajin Ultra Dañado		
+	- Evil Buu									
+	- Cooler Core								
+	- Pirina										
+	- Paragus										
+	- Toma										
+	- Piccoro Inicio							
+	- Androide 14									
+	- Androide 17 DBS								
+	- Androide 18 DBS								
+	- Slug OVA (Sin casco)						
+	- Slug OVA Gigante							
+	- Hatchiyack								
+	- Vegeta Ultra Dañado							
+	- Vegeta Super Saiyajin Ultra Dañado			
+	- Vegeta Super Saiyajin DND Ultra Dañado		
+	- Vegeta Super Saiyajin 2 Ultra Dañado			
+	- Vegeta Super Saiyajin Blue Ultra Dañado		
+	- Vegeta Super Saiyajin Blue Evo Ultra Dañado	
+	- Vegeta Super Saiyajin God Ultra Dañado		
+- Mapas
+	- Islas FnF										
+- Menus
+	- Nuevo Menu de Seleccion de Personajes
+	- Referencia de Personajes
+		- Nuevas Biografias de los nuevos personajes
+		- Nuevos comentarios de Milk para los nuevos personajes
+- Soundtrack
+	- Nueva cancion, en total 63 Canciones.
+- Nuevas Imagenes de Seleccion
+	- Goku (Med) Super Saiyajin
+	- Vegeta Super Saiyajin 2
+	- Trunks Super Saiyajin Rage
+	- Goku Ultra Instinct
+	- Beerus
+	- Personaje Contraseña
+	- Islas (Tarde)
+	- Ciudad
+	- Torneo de Champa
+	- Torneo de Exhibicion
+	- Torneo del Poder
+	- Palacio de Baba
+- Bug Fixes
+	- Restricciones de Seleccion
+		- Caulifla y Goku Ultra Instinto con Bojack y Majuub respectivamente
+	- Mapas
+		- Camaras de Clash Torneo del Poder
+	- Vegetto Super Saiyajin Blue
+		- Animacion al ser atravesado	
+	- Goku Super Saiyajin Blue
+		- Aura correcta al efectuar su Tecnica 2.
+	- Freezer 1ra Forma
+		- Supernova correcta al efectuar su Tecnica Definitiva.
+	- Desbloqueos Modo Historia
+		- Saga Especial (Capitulo 1) 		
+		- Saga Especial (Capitulo 2)		
+		- Janemba 				
+		- Torneo de Champa			
+		- Torneo de Exhibicion			
+		- Jiren		 			
+	- Super Combos Fixeados
+		- Bergamo
+		- Caulifla
+		- Caulifla Super Saiyajin 2
+		- Goku Super Saiyajin God
+		- Goku Super Saiyajin Blue
+		- Goku Super Saiyajin Blue Kaioken
+	- Goku GT EoZ
+		- Corregido el color de la Cola en Super Saiyajin y Super Saiyajin 3.           
+		
+*Beta 5 (v0.5)*
+- Modo Historia
+	- Saga Cell Capitulo 7 (Yermos, Trunks Pelo Corto).
+	- Saga Super Audios Latinos (Todos).
+	- Saga Super Capitulo 1 (Remake).
+	- Saga Super Capitulo 2 (Remake).
+	- Saga Super Capitulo 12.
+	- Saga Super Capitulo 13.
+- Personajes Nuevos/Modificados
+	- Caulifla										
+	- Caulifla Super Saiyajin 						
+	- Caulifla Super Saiyajin 2 				
+	- Goku Semi Ultra Instinct 						
+	- Jiren 										
+	- Kale 								
+	- Kale Ultra Super Saiyajin 			
+	- Goku Super Saiyajin God 					
+	  No Disponible.
+		- Kale Super Saiyajin 					
+- Trajes Adicionales
+	- Androide 14 									
+	- Androide 15 								
+	- Androide 17 DBS							
+	- Androide 18 DBS						
+	- Bardock Minus 								
+	- Bardock Minus Super Saiyajin 					
+	- Black Goku Kaioshin 							
+	- Black Goku Kaioshin Super Saiyajin Rose 		
+	- Bra										
+	- Bra Super Saiyajin							
+	- Bra Super Saiyajin 2					
+	- Gohan FnF 								
+	- Gohan FnF Super Saiyajin 				
+	- Gohan GT 									
+	- Gohan GT Super Saiyajin 					
+	- Goten DBS										
+	- Goten Super Saiyajin DBS						
+	- Hiro											
+	- Hiro Super Saiyajin Definitivo				
+	- Hiro Super Saiyajin Definitivo 2				
+	- Kibitoshin 								
+	- Majin Buu Entrenado 						
+	- Nail 										
+	- PxGamer13 (Red Ranger)					
+	- Saonel	 							
+	- Super Bu Gogeta Absorbido						
+	- Super Bu Piccoro Absorbido				
+	- Super Bu Vegetto Absorbido				
+	- Tagoma 									
+	- Tenshinhan DBS 							
+	- Trunks GT Base 								
+	- Trunks GT Super Saiyajin 						
+	- Trunks GT Super Saiyajin 2do Grado		
+	- Ub 										
+	- Vegeta Atroccius							
+	- Vegeta Time Breaker 							
+	- Zen Buu 										
+- Menus
+	- Nuevo Menu Principal
+	- Nuevo Modo Ranking
+	- Nuevo Modo Batalla Z
+	- Nuevo Modo Evolucion Z
+- Correcciones en todos los Menus
+	- Imagenes y Nombres correctos de todos aquellos nuevos personajes
+	- Soundtrack completo en todos los menus.
+	- Mapas correctamente reemplazados (Incluidos Imagenes y Nombres)
+- Mapas
+	- Espacio (Sin Nave)						
+	- Torneo del Poder 							
+	- Yermos (Dia) 								
+	- Ciudad (Dia)									
+	- Palacio de Baba (Noche)					
+- Nuevo OP
+- Bug Fixes
+	- Super Ondas Explosivas (El oponente no caia al suelo)
+		- Androide 13 Fusion
+		- Broly Super Saiyajin
+		- Cell Perfecto
+		- Goku (Fin) Super Saiyajin 3
+		- Goku (GT) Super Saiyajin
+		- Gohan Definitivo
+		- Gohan del Futuro
+		- Gran Saiyaman
+		- Hildegarn
+		- King Cold
+		- Majin Buu 
+		- Majin Buu Maldad Pura
+		- Majin Vegeta
+		- Recoome
+		- Slug Gigante
+		- Super Buu
+		- Super Gogeta
+		- Super Trunks
+		- Vegeta
+	- Otros Ataques (El oponente no caia al suelo)
+		- Freezer 2da Forma
+		- Nappa
+		- Omega Shenron
+		- Recoome
+		- Shin Shenron
+	- Patadas Voladoras (Eran Infinitas)
+		- Buu (Forma Pura)
+		- Chaos
+		- Majin Buu Pura Maldad
+	- Agarres (No funcionaban a corto alcance)
+		- Buu (Forma Pura)
+		- Majin Buu
+		- Majin Buu Maldad Pura
+		- Super Janemba
+	- Personajes Especificos
+		- Goku Super Saiyajin Blue 
+			- Izquierda o Derecha + X a corto alcance en el aire.
+			- Kamehameha Instantaneo bugueado en algunos mapas.
+		- Golden Freezer 
+			- Cuerpo Definitivo por Defecto
+		- Toppo 
+			- Combo Hitboxes y Daño de 2da Tecnica
+		- Vegeta Super Saiyajin Blue 
+			- Agarre
+		- Vegeta
+			- Moveset Antiguo
+		- Vegeta Super Saiyajin
+			- Moveset Antiguo
+		- Vegeta Super Saiyajin 4
+			- Final Shine Verde
+		- Super Vegeta
+			- Acometida Extendida (BT2)
+			- Nueva Habilidad 2
+		- Hit
+			- Tecnicas Mejoradas
+	- Desbloqueos Modo Historia
+		- Toppo 				
+		- Saga Especial (Capitulo 2) 		
+	- Mapas con Barreras Mal Extendidas
+		- Rocosas (Dia y Noche)
+		- Desierto
+		
+*Beta 4 (v0.4)*
+- Modo Historia
+	- Saga Super Capitulo 10.
+	- Saga Super Capitulo 11.
+	- Saga Super Mision 3 (Nueva)
+	- Saga Super Mision 4 (Nueva)
+	- Saga Super Mision 5 (Nueva)
+	- Saga Super Mision 6 (Nueva)
+	- Saga Super Mision 7 (Nueva)
+- Personajes Nuevos/Modificados (Con sus Nombres e Imagenes Respectivos de cada uno).
+	- Toppo 								
+	- Bergamo 									
+	- Janemba								
+- Trajes Adicionales
+	- Androide 16 Dañado 						
+	- ApioMan Base 							
+	- ApioMan Super Saiyajin 					
+	- ApioMan 								
+	- Black Goku 							
+	- Black Goku Super Saiyajin 				
+	- Gohan Adulto Reubicado
+		- Gohan Adulto Gi Naranja 			
+		- Gohan Adulto Saiyaman 				
+		- Gohan Adulto Orange Star 				
+		- Gohan Adulto Gi Purpura 				
+	- Goku GT End of Z 						
+	- Goku GT End of Z Super Saiyajin 			
+	- Goku GT End of Z Super Saiyajin 3 		
+	- Goku GT End of Z Super Saiyajin 4 		
+	- Gran Saiyaman Super Saiyajin 			
+	- Kyabe U7 								
+	- Tarble 							
+	- Turles con Capa 							
+	- Vegetto GT 							
+	- Vegetto Xeno 							
+	- Xeno Janemba 								
+	- Xeno Gogeta 								
+	- Yamcha Baseball 					
+- Nuevo Menu Principal
+- Correcciones en todos los Menus
+	- Imagenes y Nombres correctos de todos aquellos nuevos personajes
+	- Soundtrack completo en todos los menus.
+	- Mapas correctamente reemplazados (Incluidos Imagenes y Nombres)
+- Nuevo Mapa
+	- Torneo de Exhibicion							
+- Fixes
+	- Bills
+	- Gohan Orange Star puede transformarse a Saiyaman
+	- Vegeta Jr. ahora en traje 3
+	- Trunks DBS Trajes 3 y 4 Logo
+	- Bardock OVA
+	- Correjidos los nombres y descripciones de los nuevos Objetos Z
+	- Correjidos aquellos Mapas que dieran problemas de colision
+	
+*Update 3.1 (v0.3.1)*
+- Trajes Adicionales
+	- Vegeta Super Saiyajin God 				
+	- Neo Shenron Original 						
+	- Mr Satan DBS 								
+	- Mr Satan DBS Marron 						
+	- Copyman 								
+	- Tennenman 						
+	- Boysenberry 								
+	- Buu (Malvado) Rosa 					
+- Fixes
+	- Doore.
+	
+*Beta 3 (v0.3)*
+- Modo Historia
+	- Saga Super Capitulo 9.
+	- Modo Historia Lineal
+		-> Saga Saiyan 
+		--> Saga Freezer 
+		---> Saga Cell 
+		----> Saga Buu 
+		-----> Saga Super/GT 
+		------> Saga Dragon Ball
+		---> Saga Especial 
+- Trajes Adicionales
+	- Beat 								
+	- Beat Super Saiyajin						
+	- Botamo 									
+	- Doore 								
+	- Goku Jr. 									
+	- Goku Jr. Super Saiyajin				
+	- Gohan Orange Star 					
+	- Gohan Orange Star Super Saiyajin 		
+	- Gohan Orange Star Super Saiyajin 2		
+	- Gran Saiyaman		 						
+	- Hatchiyack 							
+	- Mira 									
+	- Towa 									
+	- Vegeta Jr. 							
+	- Vegeta Jr. Super Saiyajin				
+- Nuevo Soundtrack (60 Canciones Seleccionables)
+- Modo Mision 100
+	- 17 Misiones Originales y 83 Misiones Totalmente Nuevas.
+- Mapas
+	- Todos los Mapas completamente Expandidos.
+	- Ciudad del Futuro 						
+	- Islas 									
+	- Islas (Tarde) 							
+	- Ring de Champa 						
+- Objetos Z
+	- Objetos Z Amarillos ahora Azules
+	- Objetos Z Rojos Ahora activados como Amarillos
+		- Correjidos sus espacios de almacenamiento y Precios
+- Bug Fixes
+	- Desbloqueos Modo Historia
+		- Bills 								
+		- Golden Freezer 						
+		- Trunks Super Saiyajin 2 				
+		- Trunks Super Saiyajin Rage 		
+		- Zamasu 							
+		- Zamasu Fusion 					
+		- Vegetto Super Saiyajin Blue 			
+		- Goten (GT) Super Saiyajin 		
+		- Arale 							
+		- Akkuman 								
+		
+*Update 2.1 (v0.2.1)*
+- Modo Historia
+	- Saga Super Capitulo 8
+- Trajes Adicionales
+	- A17 Chaqueta Azul 						
+	- Bills Colores de Champa 					
+	- Broly Super Saiyajin 3 						
+	- Buu (Forma Pura) Atroccius 				
+	- Cell Atroccius 							
+	- Drum 										
+	- Frost Primera Forma 						 
+	- Frost Segunda Forma 							
+	- Frost Tercera Forma 							
+	- Frost Forma Final 							 
+	- Frost 100% 									
+	- Frost Golden 								
+	- Ginyu Goku 								
+	- Gogeta Super Saiyajin 3 						
+	- Goku Armadura 								
+	- Goku Armadura Super Saiyajin 					
+	- Goku (GT) Gi Kame 							
+	- Goku (GT) Gi Kame Super Saiyajin				
+	- Goku (GT) Gi Kame Super Saiyajin 3			
+	- Goku (GT) Gi Kame Super Saiyajin 4			
+	- Gohan (Definitivo) Saiyaman 					
+	- Hildegarn Primera Forma 						
+	- Pan Niña 										
+	- Vegeta Super Saiyajin 3 						
+	- Trunks Armadura con Cabello Corto 			
+- Goku (Med) Renovado
+	- Cambios en el Cabello del Super Saiyajin.
+	- Nuevo Efecto Amarillo en Kamehameha Furioso.
+- Fixes
+	- Cambios en los Mapas del Modo Historia que generaban conflictos.
+	
+*Beta 2 (v0.2)*
+- Modo Historia
+	- Saga Super con Jaco
+	- Saga Super Capitulo 7 
+	- Saga Super Capitulo 10 (Mision 01)
+	- Saga Super Capitulo 11 (Mision 02)
+	- Saga Super Capitulo 12 (Mision 03)
+	- Saga Super Capitulo 13 (Mision 04)
+	- Saga Super Capitulo 14 (Mision 05)
+	- Saga Super Capitulo 15 (Mision 06)
+	- Saga Super Capitulo 16 (Mision 07)
+- Mapas
+ 	- Cerca de 10 Mapas Expandidos Correctamente
+- Fixes
+	- Modo Batalla definitiva reparado
+	- Modo Shenron con nombres apropiados.
+	- Raditz ya no provoca crasheos en idioma japonés.
+	- Goku tiene sus audios japoneses correctos.
+	- El Combo de Goku (Fin) Super Saiyajin God ahora lanza un Kamehameha.
+	- El menú de cambio de idioma contiene los nombres correctos.
+	
+*Update 1.1 (v0.1.1)*
+- Modo Historia
+	- Saga Super Capitulo 6.
+	- Imagenes para los siguientes capitulos (aún no disponibles).
+- Personajes Nuevos/Modificados
+	- Dr Willow										
+- Trajes Adicionales
+	- Bioman 									
+	- Copy Vegeta 									
+	- Cyborg Tao 									
+	- Gohan del Futuro (Sin Brazo y con Cicatriz) 	
+	- Gohan del Futuro (Con Brazo y sin Cicatriz) 	
+	- Zangya 										
+- Fixes
+	- Ahora sin Transformacion
+		- Fasha
+		- Turles
+		- Kaioshin
+		- Videl
+		- Raditz
+		- Nappa
+	- Arreglos Minimos en las imagenes de la Saga Super.
+	- Trunks Super Saiyajin Rage posee sus Audios Correctos.
+	- Trunks del Futuro Trajes 3 y 4 Mejorados.
+	- Gran Saiyaman ahora llama a Videl en su Ataque Definitivo.
+	
+*Beta 1 (v0.1)*
+- Modo Historia
+	- Saga Super Capitulo 1
+	- Saga Super Capitulo 2
+	- Saga Super Capitulo 3
+	- Saga Super Capitulo 4
+	- Saga Super Capitulo 5
+- Personajes Nuevos.
+	- Bardock Super Saiyajin 					
+	- Goten (GT) 								
+	- Goten (GT) Super Saiyajin 				
+	- Goku Super Saiyajin Falso					
+	- Goku Super Saiyajin God 					
+	- Goku Super Saiyajin Blue 					
+	- Goku Super Saiyajin Blue Kaioken 			
+	- Vegeta Super Saiyajin Blue 				
+	- Vegito Super Saiyajin Blue 				
+	- Trunks Super Saiyajin 2 					
+	- Trunks Super Saiyajin Rage 				
+	- Bills 									
+	- Golden Freezer 						
+	- Cabba 									
+	- Cabba Super Saiyajin 						
+	- Black Goku 								
+	- Black Goku Super Saiyajin Rose 			
+	- Zamas 									
+	- Zamas (Fusion) 							
+	
+- Trajes Adicionales
+	- Appule 									
+	- Bardock OVA 								
+	- Bardock Multiverse 					
+	- Goku Gi Wiss 								
+	- Goku Gi Wiss Super Saiyajin				
+	- Goku Gi Wiss Super Saiyajin 2				
+	- Goku Gi Wiss Super Saiyajin 3				
+	- Goku Gi Go 							
+	- Goku Gi Go Super Saiyajin					
+	- Goku Gi Go Super Saiyajin 2				
+	- Goku Gi Go Super Saiyajin 3				
+	- Goku Niño Gi 								
+	- Neiz 										
+	- Rey Vegeta 								
+	- Rey Vegeta Ozaru							
+	- Salza 									
+	- Soldado de Freezer 						
+	- Soldado de Freezer 						
+	- Trunks (Espada) Buzo Verde	 			
+	- Trunks (Espada) Buzo Verde Super Saiyajin	
+	- Trunks (Espada) DBS						
+	- Trunks (Espada) DBS Super Saiyajin		
+- Audio Latino.
+- Menu de Seleccion de Personajes editado.
+- Vegeta Unificado.
+- Mapas
+	- Islas (Tarde) 					
+	- Torneo de Champa 						
+	- Espacio (Tierra) 						
